@@ -1,4 +1,4 @@
-### Hi, I'm Prince 👋
+### Hi, I'm Prince Yadav👋
 
 I'm a Rust and Solana engineer. I build backends, indexers and real-time data pipelines, and I teach Solana engineering on YouTube.
 
