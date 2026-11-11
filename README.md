@@ -15,8 +15,14 @@ Most recently I built the Rust backend for [P0 (marginfi)](https://app.0.xyz/) f
 
 An engineering course where we build real Solana programs line by line and test them against a local validator.
 
-- 📺 [Full playlist](https://youtube.com/playlist?list=PLRR3UvNYzm00) · [Channel](https://www.youtube.com/@princedotrs)
-- **AMM with Anchor**: [Part 1](https://youtu.be/FwcrPbUakj8) · [Part 2](https://youtu.be/8Bt0a7KWz0o) · [Part 3](https://youtu.be/cqGn0EempdE) · code: [amm-anchor](https://github.com/princedotrs/amm-anchor)
+- 📺 [Full playlist](https://www.youtube.com/playlist?list=PLRR3UvNYzm00) · [Channel](https://www.youtube.com/@princedotrs) · start with the [roadmap](https://youtu.be/JBlla1rdD2Q)
+- 📦 All the course code in one place: [solana-from-first-principles](https://github.com/princedotrs/solana-from-first-principles)
+
+| Lesson | Videos | Code |
+| --- | --- | --- |
+| **Vault**: PDAs, signer seeds, closing accounts | [Part 1](https://youtu.be/rQZJF6PGn3M) · [Part 2](https://youtu.be/0FGxIg3DIkw) · [Part 3](https://youtu.be/l_1j12ev598) | [anchor-vault](https://github.com/princedotrs/anchor-vault) |
+| **Escrow**: token vaults, Token-2022, `has_one` checks | [Part 1](https://youtu.be/JiSAgNe14oQ) · [Part 2](https://youtu.be/EPobspAcdNo) · [Part 3](https://youtu.be/cx_uz2LmAWs) | [escrow-anchor](https://github.com/princedotrs/escrow-anchor) |
+| **AMM**: `x · y = k`, LP tokens, slippage | [Part 1](https://youtu.be/FwcrPbUakj8) · [Part 2](https://youtu.be/8Bt0a7KWz0o) · [Part 3](https://youtu.be/cqGn0EempdE) · [Part 4](https://youtu.be/rmpYBILLJuU) | [amm-anchor](https://github.com/princedotrs/amm-anchor) |
 
 ### Start here
 
