@@ -1,6 +1,6 @@
 ### Hi, I'm Prince Yadav👋
 
-I'm a Rust and Solana engineer. I build backends, indexers and real-time data pipelines, and I teach Solana engineering on YouTube.
+I'm a Full Stack Blockchain Developer Specialized in Rust and Solana. I build backends, indexers and real-time data pipelines, and I teach Solana engineering on YouTube.
 
 Most recently I built the Rust backend for [P0 (marginfi)](https://app.0.xyz/) from the first commit: a concurrent indexer over 16K+ accounts, oracle decoders with fallbacks, and the APY and emissions endpoints that DefiLlama reads. Before that I worked on low-latency trading infrastructure with Yellowstone gRPC, Helius LaserStream and Helius Sender.
 
